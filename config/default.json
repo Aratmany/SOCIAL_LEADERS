@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "mongoURI": "mongodb+srv://cosplay:school145@hangman-gms8m.gcp.mongodb.net/SocialLeaders?retryWrites=true&w=majority",
+    "jwt": "social_leaders"
+}
